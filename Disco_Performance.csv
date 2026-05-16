@@ -1,0 +1,13 @@
+DISCO,Zone,Allocated_MWh,Metered_MWh,Billed_MWh,Collected_MWh,Losses_Pct,Collection_Efficiency_Pct
+Ikeja,South West,1850,1420,1380,1290,23.2,93.5
+Eko,South West,1200,890,860,810,25.8,94.2
+Abuja,North Central,1100,820,790,750,25.4,94.9
+Ibadan,South West,980,710,680,620,27.5,91.2
+Enugu,South East,620,440,420,380,29.0,90.5
+Port Harcourt,South South,750,560,540,500,25.3,92.6
+Kano,North West,830,590,560,490,28.9,87.5
+Kaduna,North West,610,420,400,350,31.1,87.5
+Benin,South South,540,370,350,310,31.5,88.6
+Jos,North Central,380,250,235,200,34.2,85.1
+Yola,North East,290,180,168,140,37.9,83.3
+Abuja,North Central,1100,820,790,750,25.4,94.9

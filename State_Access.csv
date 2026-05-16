@@ -1,0 +1,38 @@
+State,Zone,Access_Pct,Urban_Access_Pct,Rural_Access_Pct,Year
+Lagos,South West,87,91,62,2023
+Abuja (FCT),North Central,82,89,55,2023
+Rivers,South South,71,78,48,2023
+Ogun,South West,68,74,45,2023
+Kano,North West,64,72,38,2023
+Anambra,South East,62,70,40,2023
+Delta,South South,61,69,42,2023
+Oyo,South West,60,67,38,2023
+Edo,South South,58,65,36,2023
+Enugu,South East,57,64,37,2023
+Kaduna,North West,52,63,30,2023
+Imo,South East,51,61,34,2023
+Kwara,North Central,49,58,28,2023
+Benue,North Central,44,54,24,2023
+Kogi,North Central,43,52,23,2023
+Niger,North Central,41,51,22,2023
+Sokoto,North West,38,49,18,2023
+Kebbi,North West,36,47,17,2023
+Zamfara,North West,34,44,16,2023
+Katsina,North West,33,43,15,2023
+Jigawa,North West,31,41,14,2023
+Bauchi,North East,30,40,13,2023
+Gombe,North East,29,39,12,2023
+Adamawa,North East,28,37,11,2023
+Taraba,North East,26,35,10,2023
+Borno,North East,24,33,9,2023
+Yobe,North East,22,31,8,2023
+Cross River,South South,47,56,27,2023
+Akwa Ibom,South South,53,62,33,2023
+Bayelsa,South South,45,54,25,2023
+Ekiti,South West,55,63,35,2023
+Ondo,South West,54,62,34,2023
+Osun,South West,56,64,36,2023
+Plateau,North Central,40,50,21,2023
+Nasarawa,North Central,38,48,19,2023
+Ebonyi,South East,42,52,22,2023
+Abia,South East,50,60,32,2023
